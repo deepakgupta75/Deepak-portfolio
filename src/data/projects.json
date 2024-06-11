@@ -1,0 +1,72 @@
+[
+
+  {
+    "title": "Password Handler",
+    "imageSrc": "project/coding2.png",
+    "description": "Developed a password Handler using React, allowing users to securely save and retrieve site names, usernames, and passwords. Simplified user access to their login credentials.",
+    "skills": ["React"],
+    "demo": "https://password-handler.netlify.app/",
+    "source": "https://github.com/deepakgupta75/Password-Handler"
+  },
+
+  {
+    "title": "Spotify-Dummy",
+    "imageSrc": "project/coding2.png",
+    "description": "Developed a basic version of Spotify clone to demonstrate fundamental web development skills and understanding of music streaming applications.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://mymusicssystem.netlify.app/",
+    "source": "https://github.com/deepakgupta75/Spotify_dummy"
+  },
+
+    {
+      "title": "Speech-to-Text-Converter",
+      "imageSrc": "project/coding2.png",
+      "description": "My Speech to Text Converter web application showcases the power of real-time speech recognition.",
+      "skills": ["React"],
+      "demo": "https://speech-to-text-site.netlify.app/",
+      "source": "https://github.com/deepakgupta75/speech-to-text-"
+    },
+    {
+      "title": "Image Serach Engine",
+      "imageSrc": "project/coding2.png",
+      "description":"Excited to unveil my Image Search Engine, a project born out of my exploration of frontend development Skills.",
+      "skills": ["HTML", "CSS", "Javascript","unsplash API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/deepakgupta75/Image-search-Engine"
+    },
+    {
+      "title": "Restaurant management system",
+      "imageSrc": "project/coding2.png",
+      "description":"Explore my portfolio showcasing a beautifully crafted restaurant management system design, where innovation meets seamless user experiences." ,
+      "skills": ["Figma platform"],
+      "demo": "https://www.figma.com/file/Bu6gzB9G8sMdB4bAyHoTaL/Restaurant-management-system?type=design&node-id=0-1&mode=design&t=L9AF9ylNzP6X3xQi-0",
+      "source": "https://github.com/deepakgupta75/Image-search-Engine"
+    },
+
+    {
+      "title": "Rock-paper-Scissor",
+      "imageSrc": "project/coding2.png",
+      "description":  "Introducing my newly crafted Rock-Paper-Scissors game, a testament to my journey in mastering frontend development fundamentals with a fun and interactive twist!",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://rock-paper-scisoor.netlify.app/",
+      "source": "https://github.com/deepakgupta75/Rock-paper-scissors"
+    },
+    {
+        "title": "Tic Tak Toe Game",
+        "imageSrc": "project/coding2.png",
+        "description": "A sleek and interactive Tic Tac Toe game, showcasing my passion for intuitive UI design and engaging user experiences.",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "https://javascript-project-tic-tak-toe.netlify.app/",
+        "source": "https://github.com/deepakgupta75/Tic-Tac-Toe-game-using-javascript"
+      },
+    
+    {
+        "title": "Currency Converter",
+        "imageSrc": "project/coding2.png",
+        "description": "This is a project made to learn the Fundamental of JavaScript programming language.",
+        "skills": ["HTML", "CSS", "Javascript","API"],
+        "demo": "https://currency-converter-javascript.netlify.app/",
+        "source": "https://github.com/deepakgupta75/Currency-Conversion-project"
+      }
+    ]
+  
